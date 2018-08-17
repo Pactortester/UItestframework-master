@@ -1,0 +1,505 @@
+2018-08-14 08:45:13,514 - root - INFO - ############################### START ###############################
+2018-08-14 08:46:25,950 - root - INFO - ############################### START ###############################
+2018-08-14 08:46:28,900 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.945702314376831 seconds
+2018-08-14 08:46:30,036 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1305570602416992 seconds
+2018-08-14 08:46:30,987 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.9406931400299072 seconds
+2018-08-14 08:46:31,230 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.23702597618103027 seconds
+2018-08-14 08:46:31,313 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07900309562683105 seconds
+2018-08-14 08:46:33,339 - root - INFO - SUCCESS    Get current window title, Spend 0.014019489288330078 seconds
+2018-08-14 08:46:40,646 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2976932525634766 seconds
+2018-08-14 08:46:40,659 - root - INFO - ###############################  End  ###############################
+2018-08-14 08:46:40,674 - root - INFO - ############################### START ###############################
+2018-08-14 08:46:42,883 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.1972124576568604 seconds
+2018-08-14 08:46:44,044 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1533565521240234 seconds
+2018-08-14 08:46:45,122 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 1.0384793281555176 seconds
+2018-08-14 08:46:45,336 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.20800232887268066 seconds
+2018-08-14 08:46:45,440 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09700369834899902 seconds
+2018-08-14 08:46:47,450 - root - INFO - SUCCESS    Get current window title, Spend 0.003999948501586914 seconds
+2018-08-14 08:46:47,665 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.21001744270324707 seconds
+2018-08-14 08:46:47,831 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.16100645065307617 seconds
+2018-08-14 08:46:47,914 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07700395584106445 seconds
+2018-08-14 08:46:49,928 - root - INFO - SUCCESS    Get current window title, Spend 0.007988214492797852 seconds
+2018-08-14 08:46:50,109 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.17196345329284668 seconds
+2018-08-14 08:46:50,258 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.14302444458007812 seconds
+2018-08-14 08:46:50,352 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08899712562561035 seconds
+2018-08-14 08:46:52,368 - root - INFO - SUCCESS    Get current window title, Spend 0.005997657775878906 seconds
+2018-08-14 08:46:52,547 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.17400836944580078 seconds
+2018-08-14 08:46:52,726 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.1689772605895996 seconds
+2018-08-14 08:46:52,817 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08600187301635742 seconds
+2018-08-14 08:46:54,838 - root - INFO - SUCCESS    Get current window title, Spend 0.013947486877441406 seconds
+2018-08-14 08:47:02,143 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.292365312576294 seconds
+2018-08-14 08:47:02,157 - root - INFO - ###############################  End  ###############################
+2018-08-14 08:48:42,896 - root - INFO - ############################### START ###############################
+2018-08-14 08:48:45,148 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2474255561828613 seconds
+2018-08-14 08:48:46,278 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1235802173614502 seconds
+2018-08-14 08:48:47,120 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.8372228145599365 seconds
+2018-08-14 08:48:47,348 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.2200019359588623 seconds
+2018-08-14 08:48:47,457 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.10401082038879395 seconds
+2018-08-14 08:48:49,469 - root - INFO - SUCCESS    Get current window title, Spend 0.0059130191802978516 seconds
+2018-08-14 08:48:56,757 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.281209707260132 seconds
+2018-08-14 08:48:56,772 - root - INFO - ###############################  End  ###############################
+2018-08-14 08:48:56,786 - root - INFO - ############################### START ###############################
+2018-08-14 08:48:58,987 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.188711404800415 seconds
+2018-08-14 08:49:00,139 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.147012710571289 seconds
+2018-08-14 08:49:01,042 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.8807806968688965 seconds
+2018-08-14 08:49:01,259 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.20900583267211914 seconds
+2018-08-14 08:49:01,353 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.0890035629272461 seconds
+2018-08-14 08:49:03,373 - root - INFO - SUCCESS    Get current window title, Spend 0.012963294982910156 seconds
+2018-08-14 08:49:03,763 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.3763730525970459 seconds
+2018-08-14 08:49:03,933 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.16297078132629395 seconds
+2018-08-14 08:49:04,028 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.0890035629272461 seconds
+2018-08-14 08:49:06,048 - root - INFO - SUCCESS    Get current window title, Spend 0.010975837707519531 seconds
+2018-08-14 08:49:06,226 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.16900157928466797 seconds
+2018-08-14 08:49:06,372 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.1370069980621338 seconds
+2018-08-14 08:49:06,462 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08400368690490723 seconds
+2018-08-14 08:49:08,476 - root - INFO - SUCCESS    Get current window title, Spend 0.004002094268798828 seconds
+2018-08-14 08:49:08,615 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.13300037384033203 seconds
+2018-08-14 08:49:08,840 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.2189931869506836 seconds
+2018-08-14 08:49:08,951 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.10000181198120117 seconds
+2018-08-14 08:49:10,974 - root - INFO - SUCCESS    Get current window title, Spend 0.016007661819458008 seconds
+2018-08-14 08:49:18,277 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2885475158691406 seconds
+2018-08-14 08:49:18,282 - root - INFO - ###############################  End  ###############################
+2018-08-14 08:49:24,638 - root - INFO - 发送邮件成功
+2018-08-14 08:54:03,874 - root - INFO - ############################### START ###############################
+2018-08-14 08:54:06,638 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.7581963539123535 seconds
+2018-08-14 08:54:07,797 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1551620960235596 seconds
+2018-08-14 08:54:08,688 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.8853685855865479 seconds
+2018-08-14 08:54:08,926 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.2309870719909668 seconds
+2018-08-14 08:54:09,022 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09200215339660645 seconds
+2018-08-14 08:54:11,048 - root - INFO - SUCCESS    Get current window title, Spend 0.014997482299804688 seconds
+2018-08-14 08:54:18,315 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2526087760925293 seconds
+2018-08-14 08:54:18,320 - root - INFO - ###############################  End  ###############################
+2018-08-14 08:54:18,325 - root - INFO - ############################### START ###############################
+2018-08-14 08:54:20,592 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2621586322784424 seconds
+2018-08-14 08:54:21,763 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1659741401672363 seconds
+2018-08-14 08:54:22,704 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.9215137958526611 seconds
+2018-08-14 08:54:22,923 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.21200132369995117 seconds
+2018-08-14 08:54:23,092 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.16201043128967285 seconds
+2018-08-14 08:54:25,116 - root - INFO - SUCCESS    Get current window title, Spend 0.015053033828735352 seconds
+2018-08-14 08:54:25,507 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.37702083587646484 seconds
+2018-08-14 08:54:25,687 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.17499971389770508 seconds
+2018-08-14 08:54:25,783 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09000205993652344 seconds
+2018-08-14 08:54:27,803 - root - INFO - SUCCESS    Get current window title, Spend 0.007988929748535156 seconds
+2018-08-14 08:54:27,970 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.15896868705749512 seconds
+2018-08-14 08:54:28,115 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.13697338104248047 seconds
+2018-08-14 08:54:28,193 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07297158241271973 seconds
+2018-08-14 08:54:30,209 - root - INFO - SUCCESS    Get current window title, Spend 0.009044885635375977 seconds
+2018-08-14 08:54:30,946 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.728229284286499 seconds
+2018-08-14 08:54:31,131 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.17901182174682617 seconds
+2018-08-14 08:54:31,212 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07399344444274902 seconds
+2018-08-14 08:54:33,225 - root - INFO - SUCCESS    Get current window title, Spend 0.0069904327392578125 seconds
+2018-08-14 08:54:40,521 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.286924123764038 seconds
+2018-08-14 08:54:40,536 - root - INFO - ###############################  End  ###############################
+2018-08-14 08:54:47,245 - root - INFO - 发送邮件成功
+2018-08-14 08:55:06,858 - root - INFO - ############################### START ###############################
+2018-08-14 08:55:08,969 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.106574773788452 seconds
+2018-08-14 08:55:10,100 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1257333755493164 seconds
+2018-08-14 08:55:10,664 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.5581693649291992 seconds
+2018-08-14 08:55:10,871 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.19900083541870117 seconds
+2018-08-14 08:55:10,965 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08000397682189941 seconds
+2018-08-14 08:55:12,987 - root - INFO - SUCCESS    Get current window title, Spend 0.015985965728759766 seconds
+2018-08-14 08:55:20,278 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.278843641281128 seconds
+2018-08-14 08:55:20,289 - root - INFO - ###############################  End  ###############################
+2018-08-14 08:55:32,462 - root - INFO - ############################### START ###############################
+2018-08-14 08:55:34,683 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.212496280670166 seconds
+2018-08-14 08:55:35,849 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1621716022491455 seconds
+2018-08-14 08:55:36,564 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.7111639976501465 seconds
+2018-08-14 08:55:36,804 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.2280123233795166 seconds
+2018-08-14 08:55:36,900 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08800268173217773 seconds
+2018-08-14 08:55:38,919 - root - INFO - SUCCESS    Get current window title, Spend 0.008000373840332031 seconds
+2018-08-14 08:55:46,216 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2836174964904785 seconds
+2018-08-14 08:55:46,221 - root - INFO - ###############################  End  ###############################
+2018-08-14 08:55:46,226 - root - INFO - ############################### START ###############################
+2018-08-14 08:55:48,481 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2484593391418457 seconds
+2018-08-14 08:55:49,617 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1285369396209717 seconds
+2018-08-14 08:55:50,496 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.8630025386810303 seconds
+2018-08-14 08:55:50,702 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.20000553131103516 seconds
+2018-08-14 08:55:50,810 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.0969994068145752 seconds
+2018-08-14 08:55:52,836 - root - INFO - SUCCESS    Get current window title, Spend 0.017008304595947266 seconds
+2018-08-14 08:55:53,052 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.20195865631103516 seconds
+2018-08-14 08:55:53,213 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.1530008316040039 seconds
+2018-08-14 08:55:53,297 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.0780036449432373 seconds
+2018-08-14 08:55:55,321 - root - INFO - SUCCESS    Get current window title, Spend 0.015047073364257812 seconds
+2018-08-14 08:55:55,504 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.16799569129943848 seconds
+2018-08-14 08:55:55,647 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.13500022888183594 seconds
+2018-08-14 08:55:55,732 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.0800020694732666 seconds
+2018-08-14 08:55:57,754 - root - INFO - SUCCESS    Get current window title, Spend 0.012954235076904297 seconds
+2018-08-14 08:55:57,936 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.17203021049499512 seconds
+2018-08-14 08:55:58,109 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.16700387001037598 seconds
+2018-08-14 08:55:58,180 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.06601405143737793 seconds
+2018-08-14 08:56:00,201 - root - INFO - SUCCESS    Get current window title, Spend 0.013045072555541992 seconds
+2018-08-14 08:56:07,521 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.305311918258667 seconds
+2018-08-14 08:56:07,531 - root - INFO - ###############################  End  ###############################
+2018-08-14 09:11:23,797 - root - INFO - ############################### START ###############################
+2018-08-14 09:11:25,993 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.190431833267212 seconds
+2018-08-14 09:11:27,150 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1526222229003906 seconds
+2018-08-14 09:11:27,764 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.601088285446167 seconds
+2018-08-14 09:11:27,963 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.1920011043548584 seconds
+2018-08-14 09:11:28,078 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.10797429084777832 seconds
+2018-08-14 09:11:30,091 - root - INFO - SUCCESS    Get current window title, Spend 0.005998134613037109 seconds
+2018-08-14 09:11:37,389 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2895545959472656 seconds
+2018-08-14 09:11:37,405 - root - INFO - ###############################  End  ###############################
+2018-08-14 09:11:37,421 - root - INFO - ############################### START ###############################
+2018-08-14 09:11:39,685 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2498536109924316 seconds
+2018-08-14 09:11:40,824 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1333200931549072 seconds
+2018-08-14 09:11:41,550 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.7081530094146729 seconds
+2018-08-14 09:11:41,764 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.20399880409240723 seconds
+2018-08-14 09:11:41,915 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.14100432395935059 seconds
+2018-08-14 09:11:43,970 - root - INFO - SUCCESS    Get current window title, Spend 0.011994123458862305 seconds
+2018-08-14 09:11:44,164 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.17999577522277832 seconds
+2018-08-14 09:11:44,334 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.16300320625305176 seconds
+2018-08-14 09:11:44,415 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07700419425964355 seconds
+2018-08-14 09:11:46,435 - root - INFO - SUCCESS    Get current window title, Spend 0.013000726699829102 seconds
+2018-08-14 09:11:46,854 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.407275915145874 seconds
+2018-08-14 09:11:47,003 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.13801074028015137 seconds
+2018-08-14 09:11:47,090 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08099508285522461 seconds
+2018-08-14 09:11:49,109 - root - INFO - SUCCESS    Get current window title, Spend 0.010042428970336914 seconds
+2018-08-14 09:11:49,277 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.15896821022033691 seconds
+2018-08-14 09:11:49,456 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.17300176620483398 seconds
+2018-08-14 09:11:49,539 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07599782943725586 seconds
+2018-08-14 09:11:51,564 - root - INFO - SUCCESS    Get current window title, Spend 0.014002561569213867 seconds
+2018-08-14 09:11:58,858 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2773988246917725 seconds
+2018-08-14 09:11:58,870 - root - INFO - ###############################  End  ###############################
+2018-08-14 09:12:05,359 - root - INFO - 发送邮件成功
+2018-08-14 10:57:18,381 - root - INFO - ############################### START ###############################
+2018-08-14 10:57:20,699 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.3122313022613525 seconds
+2018-08-14 10:57:21,858 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1521003246307373 seconds
+2018-08-14 10:57:22,461 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.598984956741333 seconds
+2018-08-14 10:57:22,677 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.20599985122680664 seconds
+2018-08-14 10:57:22,767 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08501744270324707 seconds
+2018-08-14 10:57:24,793 - root - INFO - SUCCESS    Get current window title, Spend 0.016986846923828125 seconds
+2018-08-14 10:57:32,067 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2600433826446533 seconds
+2018-08-14 10:57:32,072 - root - INFO - ###############################  End  ###############################
+2018-08-14 10:57:32,078 - root - INFO - ############################### START ###############################
+2018-08-14 10:57:34,233 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.14849591255188 seconds
+2018-08-14 10:57:35,407 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1672029495239258 seconds
+2018-08-14 10:57:36,051 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.62894606590271 seconds
+2018-08-14 10:57:36,268 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.20797395706176758 seconds
+2018-08-14 10:57:36,367 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09200334548950195 seconds
+2018-08-14 10:57:38,393 - root - INFO - SUCCESS    Get current window title, Spend 0.012984991073608398 seconds
+2018-08-14 10:57:38,595 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.19001317024230957 seconds
+2018-08-14 10:57:38,774 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.17399883270263672 seconds
+2018-08-14 10:57:38,877 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09800386428833008 seconds
+2018-08-14 10:57:40,898 - root - INFO - SUCCESS    Get current window title, Spend 0.013968229293823242 seconds
+2018-08-14 10:57:41,074 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.1619415283203125 seconds
+2018-08-14 10:57:41,214 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.134002685546875 seconds
+2018-08-14 10:57:41,304 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08399391174316406 seconds
+2018-08-14 10:57:43,321 - root - INFO - SUCCESS    Get current window title, Spend 0.009004354476928711 seconds
+2018-08-14 10:57:43,705 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.37487196922302246 seconds
+2018-08-14 10:57:43,886 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.17397809028625488 seconds
+2018-08-14 10:57:43,975 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08400297164916992 seconds
+2018-08-14 10:57:45,989 - root - INFO - SUCCESS    Get current window title, Spend 0.0059947967529296875 seconds
+2018-08-14 10:57:53,261 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.265505313873291 seconds
+2018-08-14 10:57:53,267 - root - INFO - ###############################  End  ###############################
+2018-08-14 14:27:05,714 - root - INFO - ############################### START ###############################
+2018-08-14 14:27:07,962 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2435693740844727 seconds
+2018-08-14 14:27:09,112 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1434276103973389 seconds
+2018-08-14 14:27:18,151 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 9.0330171585083 seconds
+2018-08-14 14:27:26,443 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2822210788726807 seconds
+2018-08-14 14:27:26,453 - root - INFO - ###############################  End  ###############################
+2018-08-14 14:51:47,211 - root - INFO - ############################### START ###############################
+2018-08-14 14:51:49,394 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.177985429763794 seconds
+2018-08-14 14:51:50,541 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1409895420074463 seconds
+2018-08-14 14:51:57,505 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 6.954671144485474 seconds
+2018-08-14 14:52:07,198 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2948882579803467 seconds
+2018-08-14 14:52:07,209 - root - INFO - ###############################  End  ###############################
+2018-08-14 14:52:56,118 - root - INFO - ############################### START ###############################
+2018-08-14 14:52:58,310 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.1866025924682617 seconds
+2018-08-14 14:52:59,446 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.125706434249878 seconds
+2018-08-14 14:53:05,256 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 5.804140567779541 seconds
+2018-08-14 14:53:13,544 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2697083950042725 seconds
+2018-08-14 14:53:13,559 - root - INFO - ###############################  End  ###############################
+2018-08-14 14:53:48,263 - root - INFO - ############################### START ###############################
+2018-08-14 14:53:50,388 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.119298219680786 seconds
+2018-08-14 14:53:51,522 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1296546459197998 seconds
+2018-08-14 14:53:56,145 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 4.615103006362915 seconds
+2018-08-14 14:54:05,529 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.289512872695923 seconds
+2018-08-14 14:54:05,543 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:00:33,081 - root - INFO - ############################### START ###############################
+2018-08-14 15:00:35,184 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.0977296829223633 seconds
+2018-08-14 15:00:36,333 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1413524150848389 seconds
+2018-08-14 15:00:41,170 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 4.821364402770996 seconds
+2018-08-14 15:00:43,790 - root - INFO - FAIL    Unable to click element: <#com-navbar > div > ul > li:nth-child(1) > a>, Spend 0.0 seconds
+2018-08-14 15:00:51,102 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3036251068115234 seconds
+2018-08-14 15:00:51,108 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:13:40,787 - root - INFO - ############################### START ###############################
+2018-08-14 15:13:42,894 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.100358247756958 seconds
+2018-08-14 15:13:44,042 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.141291618347168 seconds
+2018-08-14 15:13:49,342 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 5.290838241577148 seconds
+2018-08-14 15:13:56,640 - root - INFO - FAIL    Unable to click element: <css->#com-navbar > div > ul > li:nth-child(1) > a>, Spend 5.07320761680603 seconds
+2018-08-14 15:14:03,896 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.246443748474121 seconds
+2018-08-14 15:14:03,904 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:27:49,318 - root - INFO - ############################### START ###############################
+2018-08-14 15:27:51,463 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.1389834880828857 seconds
+2018-08-14 15:27:52,598 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1292171478271484 seconds
+2018-08-14 15:27:57,683 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 5.076106548309326 seconds
+2018-08-14 15:28:05,113 - root - INFO - FAIL    Unable to click element: <css->#com-navbar > div > ul > li:nth-child(1) > a>, Spend 5.071609973907471 seconds
+2018-08-14 15:28:12,388 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2672677040100098 seconds
+2018-08-14 15:28:12,403 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:28:51,189 - root - INFO - ############################### START ###############################
+2018-08-14 15:28:53,385 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.188000202178955 seconds
+2018-08-14 15:28:54,566 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1751251220703125 seconds
+2018-08-14 15:28:59,687 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 5.1111979484558105 seconds
+2018-08-14 15:29:09,257 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2721097469329834 seconds
+2018-08-14 15:29:09,273 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:31:40,751 - root - INFO - ############################### START ###############################
+2018-08-14 15:31:43,028 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.270308256149292 seconds
+2018-08-14 15:31:44,162 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.129049301147461 seconds
+2018-08-14 15:31:48,826 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 4.653281211853027 seconds
+2018-08-14 15:32:00,834 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3189797401428223 seconds
+2018-08-14 15:32:00,839 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:32:53,053 - root - INFO - ############################### START ###############################
+2018-08-14 15:32:55,318 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.260380506515503 seconds
+2018-08-14 15:32:56,468 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.14390230178833 seconds
+2018-08-14 15:33:03,156 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 6.681238889694214 seconds
+2018-08-14 15:33:15,710 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2223706245422363 seconds
+2018-08-14 15:33:15,720 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:46:40,528 - root - INFO - ############################### START ###############################
+2018-08-14 15:46:42,776 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.240809917449951 seconds
+2018-08-14 15:46:43,923 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1415162086486816 seconds
+2018-08-14 15:46:50,392 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 6.463787078857422 seconds
+2018-08-14 15:47:03,734 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3602046966552734 seconds
+2018-08-14 15:47:03,741 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:47:36,444 - root - INFO - ############################### START ###############################
+2018-08-14 15:47:38,682 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.231348991394043 seconds
+2018-08-14 15:47:39,826 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1387825012207031 seconds
+2018-08-14 15:47:46,464 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 6.632185935974121 seconds
+2018-08-14 15:47:52,045 - root - INFO - SUCCESS    Get current window title, Spend 0.007911443710327148 seconds
+2018-08-14 15:47:52,057 - root - INFO - SUCCESS    Get current window title, Spend 0.0060007572174072266 seconds
+2018-08-14 15:47:59,488 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.33676815032959 seconds
+2018-08-14 15:47:59,497 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:50:55,206 - root - INFO - ############################### START ###############################
+2018-08-14 15:50:57,478 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2649383544921875 seconds
+2018-08-14 15:50:58,618 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1339173316955566 seconds
+2018-08-14 15:51:05,343 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 6.713648319244385 seconds
+2018-08-14 15:51:13,284 - root - INFO - SUCCESS    Get current window title, Spend 0.006900787353515625 seconds
+2018-08-14 15:51:13,296 - root - INFO - SUCCESS    Get current window title, Spend 0.005009651184082031 seconds
+2018-08-14 15:51:22,455 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3172035217285156 seconds
+2018-08-14 15:51:22,461 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:51:45,223 - root - INFO - ############################### START ###############################
+2018-08-14 15:51:47,481 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2525227069854736 seconds
+2018-08-14 15:51:48,624 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1360268592834473 seconds
+2018-08-14 15:51:53,254 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 4.625247955322266 seconds
+2018-08-14 15:51:58,532 - root - INFO - SUCCESS    Get current window title, Spend 0.00896310806274414 seconds
+2018-08-14 15:51:58,549 - root - INFO - SUCCESS    Get current window title, Spend 0.007966041564941406 seconds
+2018-08-14 15:52:00,216 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\bmkstest.png, Spend 0.3099968433380127 seconds
+2018-08-14 15:52:07,675 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3184611797332764 seconds
+2018-08-14 15:52:07,684 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:57:34,595 - root - INFO - ############################### START ###############################
+2018-08-14 15:57:36,820 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2186944484710693 seconds
+2018-08-14 15:57:37,988 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1629407405853271 seconds
+2018-08-14 15:57:43,042 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 5.050113677978516 seconds
+2018-08-14 15:57:48,243 - root - INFO - SUCCESS    Get current window title, Spend 0.010981082916259766 seconds
+2018-08-14 15:57:48,263 - root - INFO - SUCCESS    Get current window title, Spend 0.008999347686767578 seconds
+2018-08-14 15:57:49,916 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\bmkstest.png, Spend 0.32404065132141113 seconds
+2018-08-14 15:57:57,393 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3217437267303467 seconds
+2018-08-14 15:57:57,408 - root - INFO - ###############################  End  ###############################
+2018-08-14 15:58:59,695 - root - INFO - ############################### START ###############################
+2018-08-14 15:59:02,431 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.7314553260803223 seconds
+2018-08-14 15:59:03,594 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1586382389068604 seconds
+2018-08-14 15:59:08,321 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 4.719595909118652 seconds
+2018-08-14 15:59:14,427 - root - INFO - SUCCESS    Get current window title, Spend 0.007997274398803711 seconds
+2018-08-14 15:59:14,444 - root - INFO - SUCCESS    Get current window title, Spend 0.00800180435180664 seconds
+2018-08-14 15:59:16,455 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\bmkstest.png, Spend 0.3172876834869385 seconds
+2018-08-14 15:59:23,916 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3104660511016846 seconds
+2018-08-14 15:59:23,931 - root - INFO - ###############################  End  ###############################
+2018-08-14 16:07:09,007 - root - INFO - ############################### START ###############################
+2018-08-14 16:07:11,114 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.100874423980713 seconds
+2018-08-14 16:07:12,288 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1691629886627197 seconds
+2018-08-14 16:07:16,801 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 4.506445646286011 seconds
+2018-08-14 16:07:23,443 - root - INFO - SUCCESS    Get current window title, Spend 0.011970043182373047 seconds
+2018-08-14 16:07:23,461 - root - INFO - SUCCESS    Get current window title, Spend 0.008961915969848633 seconds
+2018-08-14 16:07:25,485 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\bmkstest.png, Spend 0.32660984992980957 seconds
+2018-08-14 16:07:32,942 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.328504800796509 seconds
+2018-08-14 16:07:32,951 - root - INFO - ###############################  End  ###############################
+2018-08-14 16:12:34,242 - root - INFO - ############################### START ###############################
+2018-08-14 16:12:36,487 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.236802577972412 seconds
+2018-08-14 16:12:37,633 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1388049125671387 seconds
+2018-08-14 16:12:42,854 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 5.214881896972656 seconds
+2018-08-14 16:12:48,593 - root - INFO - SUCCESS    Get current window title, Spend 0.011016607284545898 seconds
+2018-08-14 16:12:48,610 - root - INFO - SUCCESS    Get current window title, Spend 0.008018732070922852 seconds
+2018-08-14 16:12:50,479 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-14_16-12-50_bmkstest.png, Spend 0.3152730464935303 seconds
+2018-08-14 16:12:57,915 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.3093786239624023 seconds
+2018-08-14 16:12:57,926 - root - INFO - ###############################  End  ###############################
+2018-08-14 16:14:11,407 - root - INFO - ############################### START ###############################
+2018-08-14 16:14:13,480 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.0672879219055176 seconds
+2018-08-14 16:14:14,629 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1417360305786133 seconds
+2018-08-14 16:14:19,279 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 4.642956733703613 seconds
+2018-08-14 16:14:24,337 - root - INFO - SUCCESS    Get current window title, Spend 0.0109710693359375 seconds
+2018-08-14 16:14:24,355 - root - INFO - SUCCESS    Get current window title, Spend 0.008987903594970703 seconds
+2018-08-14 16:14:26,221 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-14_16-14-25_bmkstest.png, Spend 0.3406085968017578 seconds
+2018-08-14 16:14:37,776 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2797725200653076 seconds
+2018-08-14 16:14:37,793 - root - INFO - ###############################  End  ###############################
+2018-08-14 16:19:36,798 - root - INFO - ############################### START ###############################
+2018-08-14 16:19:38,889 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.0857014656066895 seconds
+2018-08-14 16:19:40,039 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1455602645874023 seconds
+2018-08-14 16:19:41,696 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 1.6515390872955322 seconds
+2018-08-14 16:19:41,931 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.22497105598449707 seconds
+2018-08-14 16:19:42,032 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09000182151794434 seconds
+2018-08-14 16:19:44,048 - root - INFO - SUCCESS    Get current window title, Spend 0.006006479263305664 seconds
+2018-08-14 16:19:51,276 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2210853099823 seconds
+2018-08-14 16:19:51,292 - root - INFO - ###############################  End  ###############################
+2018-08-14 16:19:51,307 - root - INFO - ############################### START ###############################
+2018-08-14 16:19:53,497 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.1800501346588135 seconds
+2018-08-14 16:19:54,633 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1300904750823975 seconds
+2018-08-14 16:19:55,878 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 1.2292065620422363 seconds
+2018-08-14 16:19:56,107 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.21600031852722168 seconds
+2018-08-14 16:19:56,203 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08899950981140137 seconds
+2018-08-14 16:19:58,227 - root - INFO - SUCCESS    Get current window title, Spend 0.015956878662109375 seconds
+2018-08-14 16:19:58,678 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.4367377758026123 seconds
+2018-08-14 16:19:58,827 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.14300751686096191 seconds
+2018-08-14 16:19:58,929 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08300590515136719 seconds
+2018-08-14 16:20:00,961 - root - INFO - SUCCESS    Get current window title, Spend 0.016009092330932617 seconds
+2018-08-14 16:20:01,151 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.18000292778015137 seconds
+2018-08-14 16:20:01,307 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.1490006446838379 seconds
+2018-08-14 16:20:01,386 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07400202751159668 seconds
+2018-08-14 16:20:03,410 - root - INFO - SUCCESS    Get current window title, Spend 0.01594710350036621 seconds
+2018-08-14 16:20:03,620 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.19696426391601562 seconds
+2018-08-14 16:20:03,782 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.15399980545043945 seconds
+2018-08-14 16:20:03,879 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08500361442565918 seconds
+2018-08-14 16:20:05,902 - root - INFO - SUCCESS    Get current window title, Spend 0.014982223510742188 seconds
+2018-08-14 16:20:13,188 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.272531747817993 seconds
+2018-08-14 16:20:13,203 - root - INFO - ###############################  End  ###############################
+2018-08-14 16:38:26,460 - root - INFO - ############################### START ###############################
+2018-08-14 16:38:28,704 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2395026683807373 seconds
+2018-08-14 16:38:29,841 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1311757564544678 seconds
+2018-08-14 16:38:37,279 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 7.431796550750732 seconds
+2018-08-14 16:38:41,555 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-banner > div.public-navbar > div > ul > li:nth-child(1) > a>, Spend 1.8110361099243164 seconds
+2018-08-14 16:38:42,569 - root - INFO - SUCCESS    Get current window title, Spend 0.007949113845825195 seconds
+2018-08-14 16:38:42,579 - root - INFO - SUCCESS    Get current window title, Spend 0.0059664249420166016 seconds
+2018-08-14 16:38:42,663 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-serviceItems > table > tbody > tr > td.td-cont > ul > li.list.active>, Spend 0.07801008224487305 seconds
+2018-08-14 16:38:44,986 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-btnBuy > a.btn.btn-next.buynow>, Spend 2.2702207565307617 seconds
+2018-08-14 16:38:52,427 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.259228229522705 seconds
+2018-08-14 16:38:52,443 - root - INFO - ###############################  End  ###############################
+2018-08-14 16:39:39,895 - root - INFO - ############################### START ###############################
+2018-08-14 16:39:42,140 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.236191511154175 seconds
+2018-08-14 16:39:43,307 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1621053218841553 seconds
+2018-08-14 16:40:20,900 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 37.58872604370117 seconds
+2018-08-14 16:40:30,367 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-banner > div.public-navbar > div > ul > li:nth-child(1) > a>, Spend 2.8518171310424805 seconds
+2018-08-14 16:40:31,391 - root - INFO - SUCCESS    Get current window title, Spend 0.016050100326538086 seconds
+2018-08-14 16:40:31,421 - root - INFO - SUCCESS    Get current window title, Spend 0.014953374862670898 seconds
+2018-08-14 16:40:31,544 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-serviceItems > table > tbody > tr > td.td-cont > ul > li.list.active>, Spend 0.10693621635437012 seconds
+2018-08-14 16:40:32,325 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-btnBuy > a.btn.btn-next.buynow>, Spend 0.7307286262512207 seconds
+2018-08-14 16:40:33,006 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-14_16-40-32_bmkstest.png, Spend 0.30968546867370605 seconds
+2018-08-14 16:40:33,135 - root - INFO - SUCCESS    Clicked element: <css->body > div.myOrder-wrap > div.section-myorder.width1200 > div > div > ul > li.row-step > a.btn-next.submitOrder>, Spend 0.07797479629516602 seconds
+2018-08-14 16:40:41,438 - root - INFO - SUCCESS    Clicked element: <id->alisubmit>, Spend 0.12298750877380371 seconds
+2018-08-14 16:40:48,751 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.301917552947998 seconds
+2018-08-14 16:40:48,768 - root - INFO - ###############################  End  ###############################
+2018-08-14 17:51:03,046 - root - INFO - ############################### START ###############################
+2018-08-14 17:51:05,696 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.64551043510437 seconds
+2018-08-14 17:51:06,844 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1423819065093994 seconds
+2018-08-14 17:51:12,731 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 5.875707149505615 seconds
+2018-08-14 17:51:17,486 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-banner > div.public-navbar > div > ul > li:nth-child(1) > a>, Spend 2.550290822982788 seconds
+2018-08-14 17:51:18,504 - root - INFO - SUCCESS    Get current window title, Spend 0.00994563102722168 seconds
+2018-08-14 17:51:18,521 - root - INFO - SUCCESS    Get current window title, Spend 0.008366584777832031 seconds
+2018-08-14 17:51:18,633 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-serviceItems > table > tbody > tr > td.td-cont > ul > li.list.active>, Spend 0.10154438018798828 seconds
+2018-08-14 17:51:27,193 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-btnBuy > a.btn.btn-next.buynow>, Spend 8.504512548446655 seconds
+2018-08-14 17:51:27,902 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-14_17-51-27_bmkstest.png, Spend 0.32570695877075195 seconds
+2018-08-14 17:51:28,030 - root - INFO - SUCCESS    Clicked element: <css->body > div.myOrder-wrap > div.section-myorder.width1200 > div > div > ul > li.row-step > a.btn-next.submitOrder>, Spend 0.08200216293334961 seconds
+2018-08-14 17:51:37,362 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.304981231689453 seconds
+2018-08-14 17:51:37,377 - root - INFO - ###############################  End  ###############################
+2018-08-14 17:51:37,394 - root - INFO - ############################### START ###############################
+2018-08-14 17:51:39,678 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2692689895629883 seconds
+2018-08-14 17:51:40,825 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1410088539123535 seconds
+2018-08-14 17:51:41,520 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.6879446506500244 seconds
+2018-08-14 17:51:41,737 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.21002578735351562 seconds
+2018-08-14 17:51:41,840 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09900212287902832 seconds
+2018-08-14 17:51:43,861 - root - INFO - SUCCESS    Get current window title, Spend 0.009903669357299805 seconds
+2018-08-14 17:51:51,129 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2584404945373535 seconds
+2018-08-14 17:51:51,138 - root - INFO - ###############################  End  ###############################
+2018-08-14 17:51:51,146 - root - INFO - ############################### START ###############################
+2018-08-14 17:51:53,354 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2013609409332275 seconds
+2018-08-14 17:51:54,524 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1660130023956299 seconds
+2018-08-14 17:51:55,381 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.8386106491088867 seconds
+2018-08-14 17:51:55,589 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: webdriver, Spend 0.19600963592529297 seconds
+2018-08-14 17:51:55,675 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07799553871154785 seconds
+2018-08-14 17:51:57,698 - root - INFO - SUCCESS    Get current window title, Spend 0.015425682067871094 seconds
+2018-08-14 17:51:57,935 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.21199893951416016 seconds
+2018-08-14 17:51:58,088 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: selenium, Spend 0.14800047874450684 seconds
+2018-08-14 17:51:58,174 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.07700014114379883 seconds
+2018-08-14 17:52:00,187 - root - INFO - SUCCESS    Get current window title, Spend 0.004970550537109375 seconds
+2018-08-14 17:52:00,433 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.24197149276733398 seconds
+2018-08-14 17:52:00,582 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: github, Spend 0.14097929000854492 seconds
+2018-08-14 17:52:00,668 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.08100104331970215 seconds
+2018-08-14 17:52:02,690 - root - INFO - SUCCESS    Get current window title, Spend 0.012993574142456055 seconds
+2018-08-14 17:52:02,841 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.13707804679870605 seconds
+2018-08-14 17:52:03,007 - root - INFO - SUCCESS    Clear and type element: <id->kw> content: 小石头tester, Spend 0.16000127792358398 seconds
+2018-08-14 17:52:03,101 - root - INFO - SUCCESS    Clicked element: <id->su>, Spend 0.09000349044799805 seconds
+2018-08-14 17:52:05,114 - root - INFO - SUCCESS    Get current window title, Spend 0.006715059280395508 seconds
+2018-08-14 17:52:12,411 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2910330295562744 seconds
+2018-08-14 17:52:12,420 - root - INFO - ###############################  End  ###############################
+2018-08-14 17:52:12,429 - root - INFO - ############################### START ###############################
+2018-08-14 17:52:14,564 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.1267919540405273 seconds
+2018-08-14 17:52:15,740 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1712772846221924 seconds
+2018-08-14 17:52:20,983 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 5.236172914505005 seconds
+2018-08-14 17:52:25,389 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-banner > div.public-navbar > div > ul > li:nth-child(1) > a>, Spend 2.0785112380981445 seconds
+2018-08-14 17:52:26,411 - root - INFO - SUCCESS    Get current window title, Spend 0.015948772430419922 seconds
+2018-08-14 17:52:26,435 - root - INFO - SUCCESS    Get current window title, Spend 0.008992910385131836 seconds
+2018-08-14 17:52:26,526 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-serviceItems > table > tbody > tr > td.td-cont > ul > li.list.active>, Spend 0.08314800262451172 seconds
+2018-08-14 17:52:28,080 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-btnBuy > a.btn.btn-next.buynow>, Spend 1.50114107131958 seconds
+2018-08-14 17:52:28,806 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-14_17-52-28_bmkstest.png, Spend 0.3060288429260254 seconds
+2018-08-14 17:52:28,934 - root - INFO - SUCCESS    Clicked element: <css->body > div.myOrder-wrap > div.section-myorder.width1200 > div > div > ul > li.row-step > a.btn-next.submitOrder>, Spend 0.07698416709899902 seconds
+2018-08-14 17:52:38,235 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.276869058609009 seconds
+2018-08-14 17:52:38,254 - root - INFO - ###############################  End  ###############################
+2018-08-14 17:52:43,968 - root - INFO - 发送邮件成功
+2018-08-14 17:57:20,766 - root - INFO - ############################### START ###############################
+2018-08-14 17:57:23,333 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.561591386795044 seconds
+2018-08-14 17:57:24,502 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.163461446762085 seconds
+2018-08-14 17:57:33,920 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 9.411444425582886 seconds
+2018-08-14 17:57:40,160 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-banner > div.public-navbar > div > ul > li:nth-child(1) > a>, Spend 3.724647283554077 seconds
+2018-08-14 17:57:41,181 - root - INFO - SUCCESS    Get current window title, Spend 0.012947797775268555 seconds
+2018-08-14 17:57:41,199 - root - INFO - SUCCESS    Get current window title, Spend 0.007018327713012695 seconds
+2018-08-14 17:57:41,308 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-serviceItems > table > tbody > tr > td.td-cont > ul > li.list.active>, Spend 0.10295820236206055 seconds
+2018-08-14 17:57:42,311 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-btnBuy > a.btn.btn-next.buynow>, Spend 0.9518110752105713 seconds
+2018-08-14 17:57:43,004 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-14_17-57-42_bmkstest.png, Spend 0.2955508232116699 seconds
+2018-08-14 17:57:43,128 - root - INFO - SUCCESS    Clicked element: <css->body > div.myOrder-wrap > div.section-myorder.width1200 > div > div > ul > li.row-step > a.btn-next.submitOrder>, Spend 0.07589387893676758 seconds
+2018-08-14 17:57:47,284 - root - INFO - SUCCESS    Clicked element: <id->alisubmit>, Spend 0.10381078720092773 seconds
+2018-08-14 17:57:54,623 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.331393241882324 seconds
+2018-08-14 17:57:54,631 - root - INFO - ###############################  End  ###############################
+2018-08-14 18:33:59,837 - root - INFO - ############################### START ###############################
+2018-08-14 18:34:02,019 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.1778695583343506 seconds
+2018-08-14 18:34:03,178 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1551103591918945 seconds
+2018-08-14 18:34:08,879 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 5.693384885787964 seconds
+2018-08-14 18:34:13,398 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-banner > div.public-navbar > div > ul > li:nth-child(1) > a>, Spend 2.0219712257385254 seconds
+2018-08-14 18:34:14,417 - root - INFO - SUCCESS    Get current window title, Spend 0.01094675064086914 seconds
+2018-08-14 18:34:14,434 - root - INFO - SUCCESS    Get current window title, Spend 0.0069942474365234375 seconds
+2018-08-14 18:34:14,533 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-serviceItems > table > tbody > tr > td.td-cont > ul > li.list.active>, Spend 0.09184932708740234 seconds
+2018-08-14 18:34:15,862 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-btnBuy > a.btn.btn-next.buynow>, Spend 1.2709887027740479 seconds
+2018-08-14 18:34:16,510 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-14_18-34-16_bmkstest.png, Spend 0.2999839782714844 seconds
+2018-08-14 18:34:16,633 - root - INFO - SUCCESS    Clicked element: <css->body > div.myOrder-wrap > div.section-myorder.width1200 > div > div > ul > li.row-step > a.btn-next.submitOrder>, Spend 0.07401728630065918 seconds
+2018-08-14 18:34:20,822 - root - INFO - SUCCESS    Clicked element: <id->alisubmit>, Spend 0.11655831336975098 seconds
+2018-08-14 18:34:28,127 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.299288511276245 seconds
+2018-08-14 18:34:28,133 - root - INFO - ###############################  End  ###############################
+2018-08-14 18:42:11,610 - root - INFO - ############################### START ###############################
+2018-08-14 18:42:13,749 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.1353185176849365 seconds
+2018-08-14 18:42:14,886 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1311209201812744 seconds
+2018-08-14 18:42:20,451 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 5.557716131210327 seconds
+2018-08-14 18:42:24,173 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-banner > div.public-navbar > div > ul > li:nth-child(1) > a>, Spend 1.5439581871032715 seconds
+2018-08-14 18:42:25,196 - root - INFO - SUCCESS    Get current window title, Spend 0.01604938507080078 seconds
+2018-08-14 18:42:25,214 - root - INFO - SUCCESS    Get current window title, Spend 0.007962703704833984 seconds
+2018-08-14 18:42:25,302 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-serviceItems > table > tbody > tr > td.td-cont > ul > li.list.active>, Spend 0.07960891723632812 seconds
+2018-08-14 18:42:26,390 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-btnBuy > a.btn.btn-next.buynow>, Spend 1.0372779369354248 seconds
+2018-08-14 18:42:26,512 - root - INFO - SUCCESS    Clear and type element: <name->ownerContactPerson> content: 全大师, Spend 0.11600184440612793 seconds
+2018-08-14 18:42:27,091 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-14_18-42-26_bmkstest.png, Spend 0.3075253963470459 seconds
+2018-08-14 18:42:27,204 - root - INFO - SUCCESS    Clicked element: <css->body > div.myOrder-wrap > div.section-myorder.width1200 > div > div > ul > li.row-step > a.btn-next.submitOrder>, Spend 0.07000231742858887 seconds
+2018-08-14 18:42:31,707 - root - INFO - SUCCESS    Clicked element: <id->alisubmit>, Spend 0.12361621856689453 seconds
+2018-08-14 18:42:38,960 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.247680902481079 seconds
+2018-08-14 18:42:38,973 - root - INFO - ###############################  End  ###############################
+2018-08-14 18:47:11,149 - root - INFO - ############################### START ###############################
+2018-08-14 18:47:13,332 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.176485538482666 seconds
+2018-08-14 18:47:14,481 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1428444385528564 seconds
+2018-08-14 18:47:24,640 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 10.14980149269104 seconds
+2018-08-14 18:47:45,733 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-banner > div.public-navbar > div > ul > li:nth-child(1) > a>, Spend 10.092837810516357 seconds
+2018-08-14 18:47:46,754 - root - INFO - SUCCESS    Get current window title, Spend 0.011040687561035156 seconds
+2018-08-14 18:47:46,773 - root - INFO - SUCCESS    Get current window title, Spend 0.007592201232910156 seconds
+2018-08-14 18:47:46,864 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-serviceItems > table > tbody > tr > td.td-cont > ul > li.list.active>, Spend 0.08597826957702637 seconds
+2018-08-14 18:47:54,750 - root - INFO - SUCCESS    Clicked element: <css->body > div.section-product.width1200 > dl > dd > div.cont-btnBuy > a.btn.btn-next.buynow>, Spend 7.835965633392334 seconds
+2018-08-14 18:47:54,880 - root - INFO - SUCCESS    Clear and type element: <name->ownerContactPerson> content: 全大师, Spend 0.12491297721862793 seconds
+2018-08-14 18:47:55,012 - root - INFO - SUCCESS    Clear and type element: <css->body > div.myOrder-wrap > div.section-myorder.width1200 > div > table:nth-child(2) > tbody > tr:nth-child(2) > td.td-2 > input> content: 15624992498, Spend 0.12599945068359375 seconds
+2018-08-14 18:47:55,146 - root - INFO - SUCCESS    Clear and type element: <css->body > div.myOrder-wrap > div.section-myorder.width1200 > div > table:nth-child(2) > tbody > tr:nth-child(3) > td.td-2 > input> content: 4564564@qq.com, Spend 0.12799930572509766 seconds
+2018-08-14 18:47:55,238 - root - INFO - SUCCESS    Clear and type element: <css->#remark> content: test, Spend 0.08701372146606445 seconds
+2018-08-14 18:47:55,573 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-14_18-47-55_bmkstest.png, Spend 0.3295583724975586 seconds
+2018-08-14 18:47:55,702 - root - INFO - SUCCESS    Clicked element: <css->body > div.myOrder-wrap > div.section-myorder.width1200 > div > div > ul > li.row-step > a.btn-next.submitOrder>, Spend 0.08101129531860352 seconds
+2018-08-14 18:48:06,999 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.272888660430908 seconds
+2018-08-14 18:48:07,008 - root - INFO - ###############################  End  ###############################
+2018-08-14 18:56:08,238 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.173161506652832 seconds

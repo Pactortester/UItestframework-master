@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>权大师测试报告</title>
+    <meta name="generator" content="HTMLTestRunner 0.8.2.2"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    
+<style type="text/css" media="screen">
+body        { font-family: Microsoft YaHei,Tahoma,arial,helvetica,sans-serif;padding: 20px; font-size: 80%; }
+table       { font-size: 100%; }
+
+/* -- heading ---------------------------------------------------------------------- */
+.heading {
+    margin-top: 0ex;
+    margin-bottom: 1ex;
+}
+
+.heading .description {
+    margin-top: 4ex;
+    margin-bottom: 6ex;
+}
+
+/* -- report ------------------------------------------------------------------------ */
+#total_row  { font-weight: bold; }
+.passCase   { color: #5cb85c; }
+.failCase   { color: #d9534f; font-weight: bold; }
+.errorCase  { color: #f0ad4e; font-weight: bold; }
+.hiddenRow  { display: none; }
+.testcase   { margin-left: 2em; }
+</style>
+
+</head>
+<body >
+<script language="javascript" type="text/javascript">
+output_list = Array();
+
+/*level 调整增加只显示通过用例的分类 --Findyou
+0:Summary //all hiddenRow
+1:Failed  //pt hiddenRow, ft none
+2:Pass    //pt none, ft hiddenRow
+3:All     //pt none, ft none
+*/
+function showCase(level) {
+    trs = document.getElementsByTagName("tr");
+    for (var i = 0; i < trs.length; i++) {
+        tr = trs[i];
+        id = tr.id;
+        if (id.substr(0,2) == 'ft') {
+            if (level == 2 || level == 0 ) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+        if (id.substr(0,2) == 'pt') {
+            if (level < 2) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+    }
+
+    //加入【详细】切换文字变化 --Findyou
+    detail_class=document.getElementsByClassName('detail');
+	//console.log(detail_class.length)
+	if (level == 3) {
+		for (var i = 0; i < detail_class.length; i++){
+			detail_class[i].innerHTML="收起"
+		}
+	}
+	else{
+			for (var i = 0; i < detail_class.length; i++){
+			detail_class[i].innerHTML="详细"
+		}
+	}
+}
+
+function showClassDetail(cid, count) {
+    var id_list = Array(count);
+    var toHide = 1;
+    for (var i = 0; i < count; i++) {
+        //ID修改 点 为 下划线 -Findyou
+        tid0 = 't' + cid.substr(1) + '_' + (i+1);
+        tid = 'f' + tid0;
+        tr = document.getElementById(tid);
+        if (!tr) {
+            tid = 'p' + tid0;
+            tr = document.getElementById(tid);
+        }
+        id_list[i] = tid;
+        if (tr.className) {
+            toHide = 0;
+        }
+    }
+    for (var i = 0; i < count; i++) {
+        tid = id_list[i];
+        //修改点击无法收起的BUG，加入【详细】切换文字变化 --Findyou
+        if (toHide) {
+            document.getElementById(tid).className = 'hiddenRow';
+            document.getElementById(cid).innerText = "详细"
+        }
+        else {
+            document.getElementById(tid).className = '';
+            document.getElementById(cid).innerText = "收起"
+        }
+    }
+}
+
+function html_escape(s) {
+    s = s.replace(/&/g,'&amp;');
+    s = s.replace(/</g,'&lt;');
+    s = s.replace(/>/g,'&gt;');
+    return s;
+}
+</script>
+<div class='heading'>
+<h1 style="font-family: Microsoft YaHei">权大师测试报告</h1>
+<p class='attribute'><strong>测试人员 : </strong> lijiawei</p>
+<p class='attribute'><strong>开始时间 : </strong> 2018-08-15 08:38:54</p>
+<p class='attribute'><strong>合计耗时 : </strong> 0:01:31.248072</p>
+<p class='attribute'><strong>测试结果 : </strong> 共 4，通过 4，通过率= 100.00%</p>
+
+<p class='description'>Test the import testcase</p>
+</div>
+
+
+
+<p id='show_detail_line'>
+<a class="btn btn-primary" href='javascript:showCase(0)'>概要{ 100.00% }</a>
+<a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
+<a class="btn btn-success" href='javascript:showCase(2)'>通过{ 4 }</a>
+<a class="btn btn-info" href='javascript:showCase(3)'>所有{ 4 }</a>
+</p>
+<table id='result_table' class="table table-condensed table-bordered table-hover">
+<colgroup>
+<col align='left' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+</colgroup>
+<tr id='header_row' class="text-center success" style="font-weight: bold;font-size: 14px;">
+    <td>用例集/测试用例</td>
+    <td>总计</td>
+    <td>通过</td>
+    <td>失败</td>
+    <td>错误</td>
+    <td>详细</td>
+</tr>
+
+<tr class='passClass warning'>
+    <td>test_01.bmkstest: 保姆注册测试集</td>
+    <td class="text-left">1</td>
+    <td class="text-left">1</td>
+    <td class="text-left">0</td>
+    <td class="text-left">0</td>
+    <td class="text-left"><a href="javascript:showClassDetail('c1',1)" class="detail" id='c1'>详细</a></td>
+</tr>
+
+<tr id='pt1_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_bmks: 保姆快速注册</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起错误信息 -Findyou
+    <button id='btn_pt1_1' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_1'>通过</button>
+    <div id='div_pt1_1' class="collapse">  -->
+
+    <!-- 默认展开错误信息 -Findyou -->
+    <button id='btn_pt1_1' type="button"  class="btn btn-danger btn-xs" data-toggle="collapse" data-target='#div_pt1_1'>通过</button>
+    <div id='div_pt1_1' class="collapse in">
+    <pre>
+    
+pt1_1: 2018-08-15 08:38:54,218 - root - INFO - ############################### START ###############################
+2018-08-15 08:38:56,811 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.5873425006866455 seconds
+2018-08-15 08:38:57,965 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1492774486541748 seconds
+2018-08-15 08:39:02,422 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 4.452711820602417 seconds
+2018-08-15 08:39:06,303 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;body &gt; div.section-banner &gt; div.public-navbar &gt; div &gt; ul &gt; li:nth-child(1) &gt; a&gt;, Spend 1.8385913372039795 seconds
+2018-08-15 08:39:07,327 - root - INFO - SUCCESS    Get current window title, Spend 0.016953229904174805 seconds
+2018-08-15 08:39:07,346 - root - INFO - SUCCESS    Get current window title, Spend 0.007000923156738281 seconds
+商标注册-权大师
+2018-08-15 08:39:07,434 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;body &gt; div.section-product.width1200 &gt; dl &gt; dd &gt; div.cont-serviceItems &gt; table &gt; tbody &gt; tr &gt; td.td-cont &gt; ul &gt; li.list.active&gt;, Spend 0.08201789855957031 seconds
+费用总计:600.00
+2018-08-15 08:39:08,477 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;body &gt; div.section-product.width1200 &gt; dl &gt; dd &gt; div.cont-btnBuy &gt; a.btn.btn-next.buynow&gt;, Spend 0.9905917644500732 seconds
+2018-08-15 08:39:08,596 - root - INFO - SUCCESS    Clear and type element: &lt;name-&gt;ownerContactPerson&gt; content: 全大师, Spend 0.10798335075378418 seconds
+2018-08-15 08:39:08,716 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;body &gt; div.myOrder-wrap &gt; div.section-myorder.width1200 &gt; div &gt; table:nth-child(2) &gt; tbody &gt; tr:nth-child(2) &gt; td.td-2 &gt; input&gt; content: 15624992498, Spend 0.11500144004821777 seconds
+2018-08-15 08:39:08,849 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;body &gt; div.myOrder-wrap &gt; div.section-myorder.width1200 &gt; div &gt; table:nth-child(2) &gt; tbody &gt; tr:nth-child(3) &gt; td.td-2 &gt; input&gt; content: 4564564@qq.com, Spend 0.13000178337097168 seconds
+2018-08-15 08:39:08,939 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;#remark&gt; content: test, Spend 0.08600592613220215 seconds
+2018-08-15 08:39:09,251 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-15_08-39-08_bmkstest.png, Spend 0.30702805519104004 seconds
+总价:600.00
+价格一致
+2018-08-15 08:39:09,371 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;body &gt; div.myOrder-wrap &gt; div.section-myorder.width1200 &gt; div &gt; div &gt; ul &gt; li.row-step &gt; a.btn-next.submitOrder&gt;, Spend 0.07700133323669434 seconds
+订单提交成功，应付金额:600.00
+测试通过
+2018-08-15 08:39:15,096 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;alisubmit&gt;, Spend 0.10102581977844238 seconds
+2018-08-15 08:39:22,403 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2998063564300537 seconds
+2018-08-15 08:39:22,417 - root - INFO - ###############################  End  ###############################
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='passClass warning'>
+    <td>test_baidu.TestBaiduIndex: 百度搜索测试</td>
+    <td class="text-left">2</td>
+    <td class="text-left">2</td>
+    <td class="text-left">0</td>
+    <td class="text-left">0</td>
+    <td class="text-left"><a href="javascript:showClassDetail('c2',2)" class="detail" id='c2'>详细</a></td>
+</tr>
+
+<tr id='pt2_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_search: 直接搜索</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起错误信息 -Findyou
+    <button id='btn_pt2_1' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_1'>通过</button>
+    <div id='div_pt2_1' class="collapse">  -->
+
+    <!-- 默认展开错误信息 -Findyou -->
+    <button id='btn_pt2_1' type="button"  class="btn btn-danger btn-xs" data-toggle="collapse" data-target='#div_pt2_1'>通过</button>
+    <div id='div_pt2_1' class="collapse in">
+    <pre>
+    
+pt2_1: 2018-08-15 08:39:22,429 - root - INFO - ############################### START ###############################
+2018-08-15 08:39:24,677 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.239450454711914 seconds
+2018-08-15 08:39:25,824 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1423678398132324 seconds
+2018-08-15 08:39:26,451 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.618983268737793 seconds
+2018-08-15 08:39:26,678 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;kw&gt; content: 小石头tester, Spend 0.22000789642333984 seconds
+2018-08-15 08:39:26,778 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;su&gt;, Spend 0.09301376342773438 seconds
+2018-08-15 08:39:28,804 - root - INFO - SUCCESS    Get current window title, Spend 0.015956401824951172 seconds
+2018-08-15 08:39:36,079 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.259931802749634 seconds
+2018-08-15 08:39:36,093 - root - INFO - ###############################  End  ###############################
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2_2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_search_excel: 使用数据驱动,进行测试</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起错误信息 -Findyou
+    <button id='btn_pt2_2' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_2'>通过</button>
+    <div id='div_pt2_2' class="collapse">  -->
+
+    <!-- 默认展开错误信息 -Findyou -->
+    <button id='btn_pt2_2' type="button"  class="btn btn-danger btn-xs" data-toggle="collapse" data-target='#div_pt2_2'>通过</button>
+    <div id='div_pt2_2' class="collapse in">
+    <pre>
+    
+pt2_2: 2018-08-15 08:39:36,108 - root - INFO - ############################### START ###############################
+2018-08-15 08:39:38,374 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.2496232986450195 seconds
+2018-08-15 08:39:39,516 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1358544826507568 seconds
+2018-08-15 08:39:40,155 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.5539910793304443 seconds
+2018-08-15 08:39:40,371 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;kw&gt; content: webdriver, Spend 0.20599794387817383 seconds
+2018-08-15 08:39:40,472 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;su&gt;, Spend 0.0950155258178711 seconds
+2018-08-15 08:39:42,485 - root - INFO - SUCCESS    Get current window title, Spend 0.006011962890625 seconds
+2018-08-15 08:39:42,719 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.22897744178771973 seconds
+2018-08-15 08:39:42,887 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;kw&gt; content: selenium, Spend 0.15498042106628418 seconds
+2018-08-15 08:39:42,971 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;su&gt;, Spend 0.07900094985961914 seconds
+2018-08-15 08:39:44,989 - root - INFO - SUCCESS    Get current window title, Spend 0.009038209915161133 seconds
+2018-08-15 08:39:45,165 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.1699662208557129 seconds
+2018-08-15 08:39:45,305 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;kw&gt; content: github, Spend 0.13400053977966309 seconds
+2018-08-15 08:39:45,405 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;su&gt;, Spend 0.09400177001953125 seconds
+2018-08-15 08:39:47,420 - root - INFO - SUCCESS    Get current window title, Spend 0.005934000015258789 seconds
+2018-08-15 08:39:47,852 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.42763400077819824 seconds
+2018-08-15 08:39:48,040 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;kw&gt; content: 小石头tester, Spend 0.18097615242004395 seconds
+2018-08-15 08:39:48,123 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;su&gt;, Spend 0.07700037956237793 seconds
+2018-08-15 08:39:50,151 - root - INFO - SUCCESS    Get current window title, Spend 0.015020608901977539 seconds
+2018-08-15 08:39:57,430 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.265122413635254 seconds
+2018-08-15 08:39:57,443 - root - INFO - ###############################  End  ###############################
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='passClass warning'>
+    <td>test_bmzc.bmkstest: 保姆注册测试集</td>
+    <td class="text-left">1</td>
+    <td class="text-left">1</td>
+    <td class="text-left">0</td>
+    <td class="text-left">0</td>
+    <td class="text-left"><a href="javascript:showClassDetail('c3',1)" class="detail" id='c3'>详细</a></td>
+</tr>
+
+<tr id='pt3_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_bmks: 保姆快速注册</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起错误信息 -Findyou
+    <button id='btn_pt3_1' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt3_1'>通过</button>
+    <div id='div_pt3_1' class="collapse">  -->
+
+    <!-- 默认展开错误信息 -Findyou -->
+    <button id='btn_pt3_1' type="button"  class="btn btn-danger btn-xs" data-toggle="collapse" data-target='#div_pt3_1'>通过</button>
+    <div id='div_pt3_1' class="collapse in">
+    <pre>
+    
+pt3_1: 2018-08-15 08:39:57,461 - root - INFO - ############################### START ###############################
+2018-08-15 08:39:59,604 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.1325151920318604 seconds
+2018-08-15 08:40:00,772 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.160916805267334 seconds
+2018-08-15 08:40:05,265 - root - INFO - SUCCESS    Navigated to https://new.quandashi.com/, Spend 4.488210439682007 seconds
+2018-08-15 08:40:09,401 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;body &gt; div.section-banner &gt; div.public-navbar &gt; div &gt; ul &gt; li:nth-child(1) &gt; a&gt;, Spend 1.9462389945983887 seconds
+2018-08-15 08:40:10,421 - root - INFO - SUCCESS    Get current window title, Spend 0.015956401824951172 seconds
+2018-08-15 08:40:10,441 - root - INFO - SUCCESS    Get current window title, Spend 0.009001493453979492 seconds
+商标注册-权大师
+2018-08-15 08:40:10,537 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;body &gt; div.section-product.width1200 &gt; dl &gt; dd &gt; div.cont-serviceItems &gt; table &gt; tbody &gt; tr &gt; td.td-cont &gt; ul &gt; li.list.active&gt;, Spend 0.08196067810058594 seconds
+费用总计:600.00
+2018-08-15 08:40:11,698 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;body &gt; div.section-product.width1200 &gt; dl &gt; dd &gt; div.cont-btnBuy &gt; a.btn.btn-next.buynow&gt;, Spend 1.1078386306762695 seconds
+2018-08-15 08:40:11,852 - root - INFO - SUCCESS    Clear and type element: &lt;name-&gt;ownerContactPerson&gt; content: 全大师, Spend 0.13901710510253906 seconds
+2018-08-15 08:40:11,978 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;body &gt; div.myOrder-wrap &gt; div.section-myorder.width1200 &gt; div &gt; table:nth-child(2) &gt; tbody &gt; tr:nth-child(2) &gt; td.td-2 &gt; input&gt; content: 15624992498, Spend 0.12198066711425781 seconds
+2018-08-15 08:40:12,113 - root - INFO - SUCCESS    Clear and type element: &lt;css-&gt;body &gt; div.myOrder-wrap &gt; div.section-myorder.width1200 &gt; div &gt; table:nth-child(2) &gt; tbody &gt; tr:nth-child(3) &gt; td.td-2 &gt; input&gt; content: 4564564@qq.com, Spend 0.12903618812561035 seconds
+2018-08-15 08:40:12,453 - root - INFO - SUCCESS    Get the current window screenshot,path: G:\UItestframework-master\report\image\2018-08-15_08-40-12_bmkstest.png, Spend 0.33484625816345215 seconds
+总价:600.00
+价格一致
+2018-08-15 08:40:12,572 - root - INFO - SUCCESS    Clicked element: &lt;css-&gt;body &gt; div.myOrder-wrap &gt; div.section-myorder.width1200 &gt; div &gt; div &gt; ul &gt; li.row-step &gt; a.btn-next.submitOrder&gt;, Spend 0.07300090789794922 seconds
+订单提交成功，应付金额:600.00
+测试通过
+2018-08-15 08:40:18,135 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;alisubmit&gt;, Spend 0.07999920845031738 seconds
+2018-08-15 08:40:25,437 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.296700954437256 seconds
+2018-08-15 08:40:25,452 - root - INFO - ###############################  End  ###############################
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr id='total_row' class="text-center active">
+    <td>总计</td>
+    <td>4</td>
+    <td>4</td>
+    <td>0</td>
+    <td>0</td>
+    <td>通过率：100.00%</td>
+</tr>
+</table>
+
+<div id='ending'>&nbsp;</div>
+    <div style=" position:fixed;right:50px; bottom:30px; width:20px; height:20px;cursor:pointer">
+    <a href="#"><span class="glyphicon glyphicon-eject" style = "font-size:30px;" aria-hidden="true">
+    </span></a></div>
+    
+
+</body>
+</html>
